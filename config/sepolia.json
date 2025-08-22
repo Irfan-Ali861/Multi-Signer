@@ -1,0 +1,1 @@
+{ "rpc_url": "env:RPC_URL", "contract_address": "0xYOUR_CONTRACT", "chain_id": 11155111 }
